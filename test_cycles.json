@@ -1,0 +1,692 @@
+[
+    [
+        {
+            "createdAtBlockNumber": "10710767",
+            "createdAtTimestamp": "1598108961",
+            "id": "0x582e3da39948c6339433008703211ad2c13eb2ac",
+            "liquidityProviderCount": "105",
+            "reserve0": "1938.71572355778713683",
+            "reserve1": "679288.231504582",
+            "reserveUSD": "1500508.669051997961563828480215194",
+            "token0": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token0Price": "0.002854039910663033363561726861932482",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "350.3805242049632103812669490615918",
+            "totalSupply": "0.817877991073295535",
+            "trackedReserveETH": "3877.431447115574273660000000000001",
+            "txCount": "2965",
+            "untrackedVolumeUSD": "8176945.483482623076717960411508465",
+            "volumeUSD": "8153223.199450599065709993479126284"
+        },
+        {
+            "createdAtBlockNumber": "10483166",
+            "createdAtTimestamp": "1595071291",
+            "id": "0x2fdbadf3c4d5a8666bc06645b8358ab803996e28",
+            "liquidityProviderCount": "4497",
+            "reserve0": "24.89569142153712159",
+            "reserve1": "71.911089137678191769",
+            "reserveUSD": "261313.0487191323619270906774426323",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.3462010062714081976695456593568432",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "2.888495359300136408487222205318017",
+            "totalSupply": "15.451905643220682298",
+            "trackedReserveETH": "143.8221782753563835379999999999999",
+            "txCount": "302416",
+            "untrackedVolumeUSD": "2546076092.66079082502984788294247",
+            "volumeUSD": "2546065045.541785603304438664186908"
+        },
+        {
+            "createdAtBlockNumber": "10713805",
+            "createdAtTimestamp": "1598149012",
+            "id": "0x485d20e8aac9f7c6a39d05147737487ff4093af4",
+            "liquidityProviderCount": "12",
+            "reserve0": "1.085106549156937531",
+            "reserve1": "28071.126412673",
+            "reserveUSD": "62611.85315690476500759808077518158",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.00003865561122146687245120132854469016",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "25869.46547736033427966467165872276",
+            "totalSupply": "0.005449251206479078",
+            "trackedReserveETH": "169.3284815123455335310647960208312",
+            "txCount": "150",
+            "untrackedVolumeUSD": "134579.3130335800157964421514393341",
+            "volumeUSD": "118753.5495146848615179785065744263"
+        }
+    ],
+    [
+        {
+            "createdAtBlockNumber": "10091443",
+            "createdAtTimestamp": "1589824355",
+            "id": "0xc2adda861f89bbb333c90c492cb837741916a225",
+            "liquidityProviderCount": "1447",
+            "reserve0": "376.903428049533234204",
+            "reserve1": "320.636404769408452345",
+            "reserveUSD": "1167447.43367565543701182862930778",
+            "token0": {
+                "decimals": "18",
+                "id": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+                "symbol": "MKR"
+            },
+            "token0Price": "1.175485448449280870049211647056836",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "0.8507123600034487289850587717644132",
+            "totalSupply": "229.432034755976158814",
+            "trackedReserveETH": "641.2728095388169046900000000000003",
+            "txCount": "181386",
+            "untrackedVolumeUSD": "1584054597.158094409841552187712457",
+            "volumeUSD": "1584054570.159491070616204051253242"
+        },
+        {
+            "createdAtBlockNumber": "10483166",
+            "createdAtTimestamp": "1595071291",
+            "id": "0x2fdbadf3c4d5a8666bc06645b8358ab803996e28",
+            "liquidityProviderCount": "4497",
+            "reserve0": "24.89569142153712159",
+            "reserve1": "71.911089137678191769",
+            "reserveUSD": "261313.0487191323619270906774426323",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.3462010062714081976695456593568432",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "2.888495359300136408487222205318017",
+            "totalSupply": "15.451905643220682298",
+            "trackedReserveETH": "143.8221782753563835379999999999999",
+            "txCount": "302416",
+            "untrackedVolumeUSD": "2546076092.66079082502984788294247",
+            "volumeUSD": "2546065045.541785603304438664186908"
+        },
+        {
+            "createdAtBlockNumber": "10713805",
+            "createdAtTimestamp": "1598149012",
+            "id": "0x485d20e8aac9f7c6a39d05147737487ff4093af4",
+            "liquidityProviderCount": "12",
+            "reserve0": "1.085106549156937531",
+            "reserve1": "28071.126412673",
+            "reserveUSD": "62611.85315690476500759808077518158",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.00003865561122146687245120132854469016",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "25869.46547736033427966467165872276",
+            "totalSupply": "0.005449251206479078",
+            "trackedReserveETH": "169.3284815123455335310647960208312",
+            "txCount": "150",
+            "untrackedVolumeUSD": "134579.3130335800157964421514393341",
+            "volumeUSD": "118753.5495146848615179785065744263"
+        },
+        {
+            "createdAtBlockNumber": "10732479",
+            "createdAtTimestamp": "1598396944",
+            "id": "0xa16a3cbc92d77b720a851d33a91890c4fbfb0299",
+            "liquidityProviderCount": "15",
+            "reserve0": "34.196702946558763307",
+            "reserve1": "15441.974611678",
+            "reserveUSD": "32766.56288715738127714067686087297",
+            "token0": {
+                "decimals": "18",
+                "id": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+                "symbol": "MKR"
+            },
+            "token0Price": "0.002214529152294907405591773950819688",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "451.5632584758273035289111159891786",
+            "totalSupply": "0.022728673123465121",
+            "trackedReserveETH": "88.85956762521769569025620928770235",
+            "txCount": "149",
+            "untrackedVolumeUSD": "90463.17835334259229320281107225136",
+            "volumeUSD": "72853.59719016158934481328670750926"
+        }
+    ],
+    [
+        {
+            "createdAtBlockNumber": "10091428",
+            "createdAtTimestamp": "1589824102",
+            "id": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974",
+            "liquidityProviderCount": "8020",
+            "reserve0": "51677.458244523991696657",
+            "reserve1": "388.37670996821168704",
+            "reserveUSD": "1419705.511934852669640749394585948",
+            "token0": {
+                "decimals": "18",
+                "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+                "symbol": "LINK"
+            },
+            "token0Price": "133.0601370220004927041398390427515",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "0.007515398844318471749032322762847439",
+            "totalSupply": "2381.354985633405696159",
+            "trackedReserveETH": "776.7534199364233740800000000000001",
+            "txCount": "499665",
+            "untrackedVolumeUSD": "4270386360.471612493335722993195219",
+            "volumeUSD": "4270385958.71816236558828410980358"
+        },
+        {
+            "createdAtBlockNumber": "10483166",
+            "createdAtTimestamp": "1595071291",
+            "id": "0x2fdbadf3c4d5a8666bc06645b8358ab803996e28",
+            "liquidityProviderCount": "4497",
+            "reserve0": "24.89569142153712159",
+            "reserve1": "71.911089137678191769",
+            "reserveUSD": "261313.0487191323619270906774426323",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.3462010062714081976695456593568432",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "2.888495359300136408487222205318017",
+            "totalSupply": "15.451905643220682298",
+            "trackedReserveETH": "143.8221782753563835379999999999999",
+            "txCount": "302416",
+            "untrackedVolumeUSD": "2546076092.66079082502984788294247",
+            "volumeUSD": "2546065045.541785603304438664186908"
+        },
+        {
+            "createdAtBlockNumber": "10713805",
+            "createdAtTimestamp": "1598149012",
+            "id": "0x485d20e8aac9f7c6a39d05147737487ff4093af4",
+            "liquidityProviderCount": "12",
+            "reserve0": "1.085106549156937531",
+            "reserve1": "28071.126412673",
+            "reserveUSD": "62611.85315690476500759808077518158",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.00003865561122146687245120132854469016",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "25869.46547736033427966467165872276",
+            "totalSupply": "0.005449251206479078",
+            "trackedReserveETH": "169.3284815123455335310647960208312",
+            "txCount": "150",
+            "untrackedVolumeUSD": "134579.3130335800157964421514393341",
+            "volumeUSD": "118753.5495146848615179785065744263"
+        },
+        {
+            "createdAtBlockNumber": "10732489",
+            "createdAtTimestamp": "1598397120",
+            "id": "0x81a8bd7f2b29cee72aae18da9b4637acf4bc125a",
+            "liquidityProviderCount": "12",
+            "reserve0": "2452.999633978536673792",
+            "reserve1": "22722.711254473",
+            "reserveUSD": "52508.53652127512054898168527773154",
+            "token0": {
+                "decimals": "18",
+                "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+                "symbol": "LINK"
+            },
+            "token0Price": "0.1079536507112750462012083491287597",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "9.263234669798495301144892168490241",
+            "totalSupply": "0.233800042414231333",
+            "trackedReserveETH": "141.6691554363474779360061060579021",
+            "txCount": "111",
+            "untrackedVolumeUSD": "79920.89379284853727279113074034034",
+            "volumeUSD": "50177.48556048234296288907195991603"
+        }
+    ],
+    [
+        {
+            "createdAtBlockNumber": "10483166",
+            "createdAtTimestamp": "1595071291",
+            "id": "0x2fdbadf3c4d5a8666bc06645b8358ab803996e28",
+            "liquidityProviderCount": "4497",
+            "reserve0": "24.89569142153712159",
+            "reserve1": "71.911089137678191769",
+            "reserveUSD": "261313.0487191323619270906774426323",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.3462010062714081976695456593568432",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "2.888495359300136408487222205318017",
+            "totalSupply": "15.451905643220682298",
+            "trackedReserveETH": "143.8221782753563835379999999999999",
+            "txCount": "302416",
+            "untrackedVolumeUSD": "2546076092.66079082502984788294247",
+            "volumeUSD": "2546065045.541785603304438664186908"
+        },
+        {
+            "createdAtBlockNumber": "10713805",
+            "createdAtTimestamp": "1598149012",
+            "id": "0x485d20e8aac9f7c6a39d05147737487ff4093af4",
+            "liquidityProviderCount": "12",
+            "reserve0": "1.085106549156937531",
+            "reserve1": "28071.126412673",
+            "reserveUSD": "62611.85315690476500759808077518158",
+            "token0": {
+                "decimals": "18",
+                "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                "symbol": "YFI"
+            },
+            "token0Price": "0.00003865561122146687245120132854469016",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "25869.46547736033427966467165872276",
+            "totalSupply": "0.005449251206479078",
+            "trackedReserveETH": "169.3284815123455335310647960208312",
+            "txCount": "150",
+            "untrackedVolumeUSD": "134579.3130335800157964421514393341",
+            "volumeUSD": "118753.5495146848615179785065744263"
+        },
+        {
+            "createdAtBlockNumber": "10718794",
+            "createdAtTimestamp": "1598214744",
+            "id": "0xf6c0428f56f9ca7ed54bd824a4856e92c3a8e401",
+            "liquidityProviderCount": "26",
+            "reserve0": "17738.720438",
+            "reserve1": "16115.40615793",
+            "reserveUSD": "34670.39103639697602623237299177473",
+            "token0": {
+                "decimals": "6",
+                "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "symbol": "USDC"
+            },
+            "token0Price": "1.100730584396174617401022516829952",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "0.908487521084523898284573664354403",
+            "totalSupply": "0.000000528636816933",
+            "trackedReserveETH": "95.69760588028032196499083251935393",
+            "txCount": "228",
+            "untrackedVolumeUSD": "174832.5604074074942990661334960332",
+            "volumeUSD": "173849.3296238939741743328640489602"
+        },
+        {
+            "createdAtBlockNumber": "10970025",
+            "createdAtTimestamp": "1601553315",
+            "id": "0x15e470f37621b6a635d32c3d8473a578b5ec0d2b",
+            "liquidityProviderCount": "140",
+            "reserve0": "9283.443696",
+            "reserve1": "1476729.023481286836740919",
+            "reserveUSD": "18615.01290170003519027187716404315",
+            "token0": {
+                "decimals": "6",
+                "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "symbol": "USDC"
+            },
+            "token0Price": "0.006286490986758641526870454762136874",
+            "token1": {
+                "decimals": "18",
+                "id": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0",
+                "symbol": "ONIGIRI"
+            },
+            "token1Price": "159.0712532804579673233490788869002",
+            "totalSupply": "0.109609222122791857",
+            "trackedReserveETH": "10.2213877397473504476462348928208",
+            "txCount": "3451",
+            "untrackedVolumeUSD": "1026946.075336327002170620497779228",
+            "volumeUSD": "1023165.737207681493189588419975739"
+        },
+        {
+            "createdAtBlockNumber": "10969832",
+            "createdAtTimestamp": "1601550702",
+            "id": "0x9866103b576bc362e934b8e96115e72413b6a8c2",
+            "liquidityProviderCount": "251",
+            "reserve0": "22.420388915558486958",
+            "reserve1": "6453332.09190381921499603",
+            "reserveUSD": "81050.06462348754542297099303584199",
+            "token0": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token0Price": "0.00000347423448789913004190920910058829",
+            "token1": {
+                "decimals": "18",
+                "id": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0",
+                "symbol": "ONIGIRI"
+            },
+            "token1Price": "287833.1913067560688909524992616326",
+            "totalSupply": "11000.70667649802242041",
+            "trackedReserveETH": "44.84077783111697391599999999999999",
+            "txCount": "6800",
+            "untrackedVolumeUSD": "3717915.048393718924516267350785558",
+            "volumeUSD": "3713876.444622676073411174791779623"
+        }
+    ],
+    [
+        {
+            "createdAtBlockNumber": "10720632",
+            "createdAtTimestamp": "1598239311",
+            "id": "0x1d1126cc2c77384448913b41fbf308563aae1f16",
+            "liquidityProviderCount": "46",
+            "reserve0": "34842.821405583194634723",
+            "reserve1": "32690.980706976",
+            "reserveUSD": "72151.20433605924935714343414334532",
+            "token0": {
+                "decimals": "18",
+                "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "symbol": "DAI"
+            },
+            "token0Price": "1.065823681396869462325381955605209",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "0.9382414910216660910603905946790867",
+            "totalSupply": "1.055061368743852374",
+            "trackedReserveETH": "189.4753335067868172312559119138885",
+            "txCount": "248",
+            "untrackedVolumeUSD": "136733.7702283991573951365434984702",
+            "volumeUSD": "137852.1251925059340695273972182615"
+        },
+        {
+            "createdAtBlockNumber": "10718794",
+            "createdAtTimestamp": "1598214744",
+            "id": "0xf6c0428f56f9ca7ed54bd824a4856e92c3a8e401",
+            "liquidityProviderCount": "26",
+            "reserve0": "17738.720438",
+            "reserve1": "16115.40615793",
+            "reserveUSD": "34670.39103639697602623237299177473",
+            "token0": {
+                "decimals": "6",
+                "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "symbol": "USDC"
+            },
+            "token0Price": "1.100730584396174617401022516829952",
+            "token1": {
+                "decimals": "9",
+                "id": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+                "symbol": "USD"
+            },
+            "token1Price": "0.908487521084523898284573664354403",
+            "totalSupply": "0.000000528636816933",
+            "trackedReserveETH": "95.69760588028032196499083251935393",
+            "txCount": "228",
+            "untrackedVolumeUSD": "174832.5604074074942990661334960332",
+            "volumeUSD": "173849.3296238939741743328640489602"
+        },
+        {
+            "createdAtBlockNumber": "10060832",
+            "createdAtTimestamp": "1589413139",
+            "id": "0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5",
+            "liquidityProviderCount": "1555",
+            "reserve0": "735425.668664721050525053",
+            "reserve1": "736256.712194",
+            "reserveUSD": "1471594.889914583443271149954729399",
+            "token0": {
+                "decimals": "18",
+                "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "symbol": "DAI"
+            },
+            "token0Price": "0.9988712584679839582668064180530548",
+            "token1": {
+                "decimals": "6",
+                "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "symbol": "USDC"
+            },
+            "token1Price": "1.001130017029168749884055922180115",
+            "totalSupply": "0.648859715870591849",
+            "trackedReserveETH": "809.9421981518278786161095580165644",
+            "txCount": "183774",
+            "untrackedVolumeUSD": "577361271.6728000019020535737128174",
+            "volumeUSD": "577361271.6728000019020535737128174"
+        }
+    ],
+    [
+        {
+            "createdAtBlockNumber": "11077058",
+            "createdAtTimestamp": "1602985820",
+            "id": "0xff84179bf75737b9b651d712d6809e44cffb382a",
+            "liquidityProviderCount": "50",
+            "reserve0": "1134.814226060509738213",
+            "reserve1": "3079.000955557393652657",
+            "reserveUSD": "30975.72543626315313311847836635543",
+            "token0": {
+                "decimals": "18",
+                "id": "0x05a0d55bbb2c047a3624af4db6d3a3ce2ea7da09",
+                "symbol": "Penguin"
+            },
+            "token0Price": "0.3685657271434894833659793996750387",
+            "token1": {
+                "decimals": "18",
+                "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+                "symbol": "UNI"
+            },
+            "token1Price": "2.713220265352240486176571365918386",
+            "totalSupply": "1787.115772085481421493",
+            "trackedReserveETH": "16.78086555419856276367330489089718",
+            "txCount": "1664",
+            "untrackedVolumeUSD": "739746.9914564414920266756061546804",
+            "volumeUSD": "664830.2833380333862268676897310448"
+        },
+        {
+            "createdAtBlockNumber": "11076983",
+            "createdAtTimestamp": "1602984703",
+            "id": "0x24d0753e0b1db16ae4acc6456b83a43af142495b",
+            "liquidityProviderCount": "11",
+            "reserve0": "1224.276101278320179761",
+            "reserve1": "9.226060918915411646",
+            "reserveUSD": "33674.59712295246021951947057992798",
+            "token0": {
+                "decimals": "18",
+                "id": "0x05a0d55bbb2c047a3624af4db6d3a3ce2ea7da09",
+                "symbol": "Penguin"
+            },
+            "token0Price": "132.6975956519309918678583136205378",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "0.007535931567464298494442914837293623",
+            "totalSupply": "83.001067880944680079",
+            "trackedReserveETH": "18.452121837830823292",
+            "txCount": "6975",
+            "untrackedVolumeUSD": "3114131.40733552589891503766131552",
+            "volumeUSD": "2279014.585798437654056123944841034"
+        },
+        {
+            "createdAtBlockNumber": "10876348",
+            "createdAtTimestamp": "1600302037",
+            "id": "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+            "liquidityProviderCount": "23096",
+            "reserve0": "284712.250334491561011916",
+            "reserve1": "776.715520455560586111",
+            "reserveUSD": "2834903.35510792035263206068433621",
+            "token0": {
+                "decimals": "18",
+                "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+                "symbol": "UNI"
+            },
+            "token0Price": "366.5592393048894131918186348308017",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "0.002728072007941504173500557725461945",
+            "totalSupply": "5854.943854589923086601",
+            "trackedReserveETH": "1553.431040911121172222",
+            "txCount": "805206",
+            "untrackedVolumeUSD": "8200643528.637543276017923702719055",
+            "volumeUSD": "8200568551.922778382094950284089457"
+        }
+    ],
+    [
+        {
+            "createdAtBlockNumber": "10969832",
+            "createdAtTimestamp": "1601550702",
+            "id": "0x9866103b576bc362e934b8e96115e72413b6a8c2",
+            "liquidityProviderCount": "251",
+            "reserve0": "22.420388915558486958",
+            "reserve1": "6453332.09190381921499603",
+            "reserveUSD": "81050.06462348754542297099303584199",
+            "token0": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token0Price": "0.00000347423448789913004190920910058829",
+            "token1": {
+                "decimals": "18",
+                "id": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0",
+                "symbol": "ONIGIRI"
+            },
+            "token1Price": "287833.1913067560688909524992616326",
+            "totalSupply": "11000.70667649802242041",
+            "trackedReserveETH": "44.84077783111697391599999999999999",
+            "txCount": "6800",
+            "untrackedVolumeUSD": "3717915.048393718924516267350785558",
+            "volumeUSD": "3713876.444622676073411174791779623"
+        },
+        {
+            "createdAtBlockNumber": "10794697",
+            "createdAtTimestamp": "1599220518",
+            "id": "0x724d5c9c618a2152e99a45649a3b8cf198321f46",
+            "liquidityProviderCount": "235",
+            "reserve0": "17079824.904460920200564964",
+            "reserve1": "10.790554886575550585",
+            "reserveUSD": "39420.81854862268815744820712869591",
+            "token0": {
+                "decimals": "18",
+                "id": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+                "symbol": "REVV"
+            },
+            "token0Price": "1582849.546107198237213616966338902",
+            "token1": {
+                "decimals": "18",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "symbol": "WETH"
+            },
+            "token1Price": "0.0000006317719851892197193496041346345757",
+            "totalSupply": "5228.571725126125667907",
+            "trackedReserveETH": "21.58110977315110117",
+            "txCount": "102697",
+            "untrackedVolumeUSD": "333392239.8429691533194638611184765",
+            "volumeUSD": "331798584.1189448675674134171325331"
+        },
+        {
+            "createdAtBlockNumber": "11904357",
+            "createdAtTimestamp": "1613963860",
+            "id": "0xacbf3c973eeec20c573ec930ce31198afb4ad0d5",
+            "liquidityProviderCount": "3",
+            "reserve0": "10317849.38393058693518588",
+            "reserve1": "11937.771304",
+            "reserveUSD": "23854.87236602493681599995807420602",
+            "token0": {
+                "decimals": "18",
+                "id": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+                "symbol": "REVV"
+            },
+            "token0Price": "864.3028184392655990510404235835745",
+            "token1": {
+                "decimals": "6",
+                "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "symbol": "USDC"
+            },
+            "token1Price": "0.001157001896402203873033879317876163",
+            "totalSupply": "0.258198760647682977",
+            "trackedReserveETH": "13.13331398070942859067236002818489",
+            "txCount": "15742",
+            "untrackedVolumeUSD": "13084694.94214772962016068201319763",
+            "volumeUSD": "2906214.871971718384717380411855646"
+        },
+        {
+            "createdAtBlockNumber": "10970025",
+            "createdAtTimestamp": "1601553315",
+            "id": "0x15e470f37621b6a635d32c3d8473a578b5ec0d2b",
+            "liquidityProviderCount": "140",
+            "reserve0": "9283.443696",
+            "reserve1": "1476729.023481286836740919",
+            "reserveUSD": "18615.01290170003519027187716404315",
+            "token0": {
+                "decimals": "6",
+                "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "symbol": "USDC"
+            },
+            "token0Price": "0.006286490986758641526870454762136874",
+            "token1": {
+                "decimals": "18",
+                "id": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0",
+                "symbol": "ONIGIRI"
+            },
+            "token1Price": "159.0712532804579673233490788869002",
+            "totalSupply": "0.109609222122791857",
+            "trackedReserveETH": "10.2213877397473504476462348928208",
+            "txCount": "3451",
+            "untrackedVolumeUSD": "1026946.075336327002170620497779228",
+            "volumeUSD": "1023165.737207681493189588419975739"
+        }
+    ]
+]
